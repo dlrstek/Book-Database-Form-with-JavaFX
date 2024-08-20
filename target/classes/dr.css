@@ -1,0 +1,191 @@
+
+       #lb1_email
+       {
+       -fx-font: normal bold 20px serif;
+       }
+
+       #lb2_sifre
+       {
+       -fx-font: normal bold 20px serif;
+       }
+
+
+       #btGirisYap
+        {
+        -fx-background-color: darkslateblue;
+        -fx-text-fill: white;
+
+        }
+        #btUyeOl
+        {
+        -fx-background-color: darkslateblue;
+        -fx-text-fill: white;
+        }
+
+
+        #btCikisYap
+        {
+        -fx-background-color: darkslateblue;
+         -fx-text-fill: white;
+        }
+
+        #gridPane
+        {
+        -fx-background-color: BEIGE;
+        }
+        #gridPane2
+        {
+        -fx-background-color: BEIGE;
+        }
+        #UYEOL{
+
+        -fx-font: normal bold 40px 'serif';
+        }
+        #borderpane
+        {
+        -fx-background-color: #084793;
+
+        }
+
+        #btKitaplar
+         {
+        -fx-background-color: #FFFF33;-fx-text-color: white;-fx-text-align: center;-fx-text-decoration: none;-fx-font-size: 20px;-fx-max-width: 115px;
+
+        }
+         #btTurler
+          {
+                -fx-background-color: #FFFF33;-fx-text-color: white;-fx-text-align: center;-fx-text-decoration: none;-fx-font-size: 20px;-fx-max-width: 115px;
+
+          }
+         #btHesabim
+          {
+      -fx-background-color: #FFFF33;-fx-text-color: white;-fx-text-align: center;-fx-text-decoration: none;-fx-font-size: 20px;-fx-max-width: 115px;
+           }
+
+
+
+         #btSepet {
+
+                 -fx-background-color: #FFFF33;-fx-text-color: white;-fx-text-align: center;-fx-text-decoration: none;-fx-font-size: 20px;-fx-max-width: 115px;
+
+                 }
+
+
+         #btCikisYap2 {
+
+                 -fx-background-color: #FFFF33;-fx-text-color: white;-fx-text-align: center;-fx-text-decoration: none;-fx-font-size: 20px;-fx-max-width: 115px;
+
+                 }
+
+
+          #vBox
+          {
+          -fx-border-color: black; -fx-border-insets:0; -fx-border-width: 5;-fx-border-style: solid;
+          }
+
+          #lbkitap_adi
+          {
+          -fx-font: normal bold 15px serif;
+          -fx-text-fill: white;
+          }
+
+          #lbyazar_adi
+                    {
+                    -fx-font: normal bold 15px serif;
+                     -fx-text-fill: white;
+                    }
+                    #lbsirala{
+
+                           -fx-font: normal bold 15px serif;
+
+                           -fx-text-fill: white;
+
+                           }
+
+         #gridPane4
+                {
+                -fx-background-color: #084793;
+
+                }
+                #lbladresbilgilerim
+                {
+-fx-font-family: Arial, sans-serif;
+	-fx-font-size: 24px;
+	-fx-color:#FF0000;
+	font-weight: bold;
+	-fx-text-fill: red;
+                }
+
+
+#lblmusteri_id
+{
+
+-fx-font-size: 18px;
+-fx-font-family: "Times New Roman", Times, serif;
+-fx-text-fill: white;
+
+}
+#lblmusteri_id
+
+{
+
+-fx-font-size: 18px;
+-fx-font-family: "Times New Roman", Times, serif;
+-fx-text-fill: white;
+
+}
+
+
+#lbladres_id
+{
+
+-fx-font-size: 18px;
+-fx-font-family: "Times New Roman", Times, serif;
+-fx-text-fill: white;
+
+}
+
+#lblil
+{
+
+-fx-font-size: 18px;
+-fx-font-family: "Times New Roman", Times, serif;
+-fx-text-fill: white;
+
+}
+
+#lblilce
+{
+
+-fx-font-size: 18px;
+-fx-font-family: "Times New Roman", Times, serif;
+-fx-text-fill: white;
+
+}
+#lblmahalle
+{
+
+-fx-font-size: 18px;
+-fx-font-family: "Times New Roman", Times, serif;
+-fx-text-fill: white;
+
+}
+#lblcadde
+{
+
+-fx-font-size: 18px;
+-fx-font-family: "Times New Roman", Times, serif;
+-fx-text-fill: white;
+
+}
+#lblbina_no
+{
+
+-fx-font-size: 18px;
+-fx-font-family: "Times New Roman", Times, serif;
+-fx-text-fill: white;
+
+}
+
+
+
